@@ -73,3 +73,12 @@ pip install -r requirements.txt
 
 # Run the script
 python fake_news_classifier.py
+```
+
+## License
+
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in both personal and commercial projects.
+
+## Author
+
+Created by Henil Daslaniya. Contributions and suggestions are welcome!
