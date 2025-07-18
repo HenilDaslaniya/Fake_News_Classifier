@@ -74,6 +74,7 @@ pip install -r requirements.txt
 # Run the script
 python fake_news_classifier.py
 ```
+---
 
 ## License
 
